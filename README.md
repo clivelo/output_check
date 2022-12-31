@@ -11,7 +11,7 @@ Python >= 3.7
 
 ## How It Works
 - All results are printed on the console
-- It shows the **first** line that the two texts are unequal
+- It shows the **first** line that the two texts differ
 - You should then fix that line, update `my_output.txt`, and rerun the script
 
 ## Interpret Results
